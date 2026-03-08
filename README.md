@@ -5,3 +5,4 @@ Wallet would be for main transactions
 Major bugs found in code
 Few small bugs fixed
 New frontend design started
+Abous us added
