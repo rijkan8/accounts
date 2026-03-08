@@ -6,3 +6,4 @@ Major bugs found in code
 Few small bugs fixed
 New frontend design started
 Abous us added
+Security strengthened
