@@ -7,3 +7,4 @@ Few small bugs fixed
 New frontend design started
 Abous us added
 Security strengthened
+Added new features
