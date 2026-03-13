@@ -11,3 +11,4 @@ Added new features
 On to solving new bugs
 Few small bugs solved
 Few major critical bugs unsolved
+Drafted few new features
