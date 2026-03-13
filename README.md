@@ -13,3 +13,4 @@ Few small bugs solved
 Few major critical bugs unsolved
 Drafted few new features
 Generating new ideas
+Asked for few feedback from test users
