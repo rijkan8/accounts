@@ -16,3 +16,5 @@ Generating new ideas
 Asked for few feedback from test users
 New draft made
 Incorporating suggestions
+New features added
+Few features removed
