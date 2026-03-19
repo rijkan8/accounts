@@ -19,3 +19,4 @@ Incorporating suggestions
 New features added
 Few features removed
 AI agent incorporated
+Dragged new ideas
