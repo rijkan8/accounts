@@ -20,3 +20,4 @@ New features added
 Few features removed
 AI agent incorporated
 Dragged new ideas
+New wallet feature idea
