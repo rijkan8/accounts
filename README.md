@@ -23,3 +23,4 @@ Dragged new ideas
 New wallet feature idea
 Proactive approach
 Debugging new bugs
+Wallet revamped
