@@ -25,3 +25,4 @@ Proactive approach
 Debugging new bugs
 Wallet revamped
 Adding AI insights
+Trading bugs encountered
