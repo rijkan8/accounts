@@ -29,3 +29,4 @@ Trading bugs encountered
 Critical errors
 Fixed few
 New feature causing constant crash
+Still not fixed
