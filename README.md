@@ -30,3 +30,4 @@ Critical errors
 Fixed few
 New feature causing constant crash
 Still not fixed
+Debugging and fixing few errors
