@@ -34,3 +34,4 @@ Debugging and fixing few errors
 New feature planned after fixup
 Few testers giving feedback
 Working on feedback
+Wallet and perp feature integration
