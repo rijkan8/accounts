@@ -35,3 +35,4 @@ New feature planned after fixup
 Few testers giving feedback
 Working on feedback
 Wallet and perp feature integration
+AI insights will prove helpful
