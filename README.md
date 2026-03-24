@@ -37,3 +37,4 @@ Working on feedback
 Wallet and perp feature integration
 AI insights will prove helpful
 Showing nice performance in testing
+user testing generated few bugs
