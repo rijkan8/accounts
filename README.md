@@ -40,3 +40,4 @@ Showing nice performance in testing
 user testing generated few bugs
 Working on those bugs
 Tracking update for new wallet
+Few design modifications done
