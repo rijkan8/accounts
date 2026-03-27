@@ -42,3 +42,4 @@ Working on those bugs
 Tracking update for new wallet
 Few design modifications done
 Working on strengthening the security
+Trying to incorporate perps
