@@ -48,3 +48,4 @@ Tracking bugs
 Deploying new fixes
 Made few changes to the interface
 Reorganizing the layout
+New bugs encountered
