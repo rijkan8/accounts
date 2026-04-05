@@ -52,3 +52,4 @@ Reorganizing the layout
 New bugs encountered
 Project 50 percent done
 Big bugs fixed
+Approval feature added
