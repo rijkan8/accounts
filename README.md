@@ -51,3 +51,4 @@ Made few changes to the interface
 Reorganizing the layout
 New bugs encountered
 Project 50 percent done
+Big bugs fixed
