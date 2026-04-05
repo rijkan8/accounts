@@ -45,6 +45,7 @@ Working on strengthening the security
 Trying to incorporate perps
 Some complex problem encountered
 Tracking bugs
+Social media feature added
 Deploying new fixes
 Made few changes to the interface
 Reorganizing the layout
