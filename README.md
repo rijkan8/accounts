@@ -60,3 +60,4 @@ Infinite approval not necessary and should be optional
 Idea is to put it to test few internal testers
 Audit would be required too
 Bugs would be cleared 
+Main launch is expected in few months
