@@ -56,3 +56,4 @@ Approval feature added
 Revoke feature planned
 Exploring adding new feature for security
 Drafting new ideas and plan for integrating them
+Infinite approval not necessary and should be optional
