@@ -54,3 +54,4 @@ Project 50 percent done
 Big bugs fixed
 Approval feature added
 Revoke feature planned
+Exploring adding new feature for security
