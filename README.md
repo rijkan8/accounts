@@ -62,3 +62,4 @@ Audit would be required too
 Bugs would be cleared 
 Main launch is expected in few months
 Adding new blockchain support
+new features added
