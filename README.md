@@ -66,3 +66,4 @@ new features added
 Strengthening security with new features
 Security feature needs more testing
 Testng in full flow
+Few testers came up with critical bugs
