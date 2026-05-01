@@ -69,3 +69,4 @@ Testng in full flow
 Few testers came up with critical bugs
 Bugs fixing is taking a long time
 Few critical bugs fixed
+Some of them are fixed now
