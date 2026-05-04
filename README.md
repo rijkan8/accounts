@@ -71,3 +71,4 @@ Bugs fixing is taking a long time
 Few critical bugs fixed
 Some of them are fixed now
 New approval feature added to wallet
+Incorporating dust feature
