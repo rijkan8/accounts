@@ -77,3 +77,4 @@ Fixed two bugs
 Improving few design flaws
 Fixing errors and optimising design
 Few things done and working fine
+Adding few critical feature but bugs needs to be fixed
