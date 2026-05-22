@@ -80,3 +80,4 @@ Few things done and working fine
 Adding few critical feature but bugs needs to be fixed
 New features incorporated for security
 Partial bugs fixed
+Critical design flow encountered
