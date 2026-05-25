@@ -81,3 +81,4 @@ Adding few critical feature but bugs needs to be fixed
 New features incorporated for security
 Partial bugs fixed
 Critical design flow encountered
+Taking too much time to fix the bugs
