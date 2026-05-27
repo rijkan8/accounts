@@ -82,3 +82,4 @@ New features incorporated for security
 Partial bugs fixed
 Critical design flow encountered
 Taking too much time to fix the bugs
+Security further enhanced
