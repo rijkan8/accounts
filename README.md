@@ -85,3 +85,4 @@ Taking too much time to fix the bugs
 Security further enhanced
 New bugs fixed
 New feature like dust token introduced
+AI security feature planned
