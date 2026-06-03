@@ -86,3 +86,4 @@ Security further enhanced
 New bugs fixed
 New feature like dust token introduced
 AI security feature planned
+Fixed some old bugs
