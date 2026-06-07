@@ -88,3 +88,4 @@ New feature like dust token introduced
 AI security feature planned
 Fixed some old bugs
 Trading feature planned
+Few bugs fixed
