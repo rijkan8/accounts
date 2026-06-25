@@ -89,3 +89,4 @@ AI security feature planned
 Fixed some old bugs
 Trading feature planned
 Few bugs fixed
+Perp feature streamlined
