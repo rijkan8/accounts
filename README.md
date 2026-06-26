@@ -90,3 +90,4 @@ Fixed some old bugs
 Trading feature planned
 Few bugs fixed
 Perp feature streamlined
+New feature to differentiate
