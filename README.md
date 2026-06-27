@@ -91,3 +91,4 @@ Trading feature planned
 Few bugs fixed
 Perp feature streamlined
 New feature to differentiate
+Trying to fix new bugs
