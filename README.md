@@ -92,3 +92,4 @@ Few bugs fixed
 Perp feature streamlined
 New feature to differentiate
 Trying to fix new bugs
+New feature for perps working fine
